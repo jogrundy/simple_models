@@ -1,2 +1,2 @@
 # simple_models
-paper to produce diagrams as shown in the paper
+Code to produce diagrams as shown in the paper
